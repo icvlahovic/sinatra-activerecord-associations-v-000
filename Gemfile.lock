@@ -31,7 +31,7 @@ GEM
     json (1.8.6)
     method_source (0.8.2)
     minitest (5.11.3)
-    mustermann (1.0.2)
+    mustermann (1.0.3)
     pry (0.10.4)
       coderay (~> 1.1.0)
       method_source (~> 0.8.1)
